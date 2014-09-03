@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhoneApp</string>
+    <string name="phone_number_placeholder">14155551212</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_number_label">SIM card Phone Number:</string>
+    <string name="call_button_label">Call 14155551212</string>
+    <string name="sms_button_label">ECHO SMS to 14155551212</string>
+    <string name="pn_button_label">PN: APA91bEwpd3VxebrtDypa5KNe9pcb03nNWVJtXZM_QH_iEuND1gco6K1Xw3UyQIj9BrTuB_4wLJSDIc0Qix4qrZMCiZDWBTcnbHB0gKSJhug7K67nUqg9Yq5h5Z1de616k7OLjCgL2MkCHcqReWxh1mdJtsjl_6-HAXwnDbZs56cK1VWKQ7FHk4</string>
+    <string name="messages_placeholder">Messages</string>
+    <string name="sms_echo_command_prefix">ECHO:GCM|</string>
+    <string name="gcm_sender_key">AIzaSyBByq5IBjxASCpzz6KggkXImbxWgs-7y9w</string>
+    <string name="gcm_message_field_phonenumber">phonenumber</string>
+    <string name="phone_number_input_hint">Enter New Phone Number</string>
+    <string name="call_button_prefix">Call </string>
+    <string name="echo_sms_button_prefix">ECHO SMS to </string>
+    <string name="phone_number_not_found_label">Phone Number Not Found</string>
+    <string name="pn_button_prefix">PN to </string>
+    <string name="pn_reg_id_unknown_label">PN Reg ID UNKNOWN</string>
+
+</resources>
