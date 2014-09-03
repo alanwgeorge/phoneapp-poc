@@ -39,7 +39,7 @@ public class SMSReceivedReceiver extends BroadcastReceiver {
             Bundle bundle = intent.getExtras();
             SmsMessage[] msgs = null;
             String from = null;
-            StringBuffer wholeMessage = new StringBuffer();
+            StringBuilder wholeMessage = new StringBuilder();
             if (bundle != null){
                 // retrieve the SMS message received
                 try{
